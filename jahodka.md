@@ -1,9 +1,9 @@
 # Toto je jahodka
 
-Jahodka je:
+**Jahodka** je:
 * fajna
 * vyborna
 * cervena
 * alebo moze byt aj biela
 
-A radi ju papame hehe.
+A radi ju jeme hehe.
