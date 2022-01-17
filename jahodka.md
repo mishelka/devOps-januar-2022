@@ -2,7 +2,7 @@
 
 **Jahodka** je:
 * fajna
-* vybornaaaaa
+* vyborna
 * cervenaaaaa
 * alebo moze byt aj bielaaaaa
 
