@@ -7,6 +7,7 @@ Toto je moje naoblubenejsie ovocie:
   * biela
   * ruzova
 * melonik
+* hrusticka
 
 Toto vsetko ovocie *musim* dnes **zjest**.
 
