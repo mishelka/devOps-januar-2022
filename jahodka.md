@@ -1,9 +1,9 @@
-# Toto je jahodka
+# Toto je jahodkaaaaa
 
 **Jahodka** je:
 * fajna
-* vybornaaaaa
 * cervenaaaaa
-* alebo moze byt aj bielaaaaa
+* alebo moze byt aj biela
+* najlepsia
 
-A radi ju jeme hehe.
+A radi ju papame hehe.
