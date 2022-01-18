@@ -9,7 +9,9 @@ Toto je moje naoblubenejsie ovocie:
 * melonik
 * hrusticka
 
+
 Toto vsetko ovocie *musim* dnes **zjest**.
 
 1. zjest
-2. aj nasadit nove
+2. aj nasadit noveeeeee
+3. ale az na jar
