@@ -1,9 +1,3 @@
-# Toto je malinka
+# Toto je KAVA
 
-**Malinka** je:
-* fajna
-* vyborna
-* cervena
-* alebo moze byt aj biela
-
-A radi ju jeme hehe.
+**Kava** je ZIVOTABUDIC!
