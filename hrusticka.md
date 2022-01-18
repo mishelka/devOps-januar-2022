@@ -2,7 +2,7 @@
 
 **Hrusticka** je:
 * fajna
-* vyborna
+* vybornaaaa
 * zlta alebo zelena
 * najlepsia
 
